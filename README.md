@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shakyskillzz
-- 👀 I’m interested in ... learning more about programming
-- 🌱 I’m currently learning ... python and programming functions
-- 💞️ I’m looking to collaborate on ...python beginner projects
+- 👀 I’m interested in ... becoming the best programmer I can possibly be.
+- 🌱 I’m currently learning ... python and modularization.
+- 💞️ I’m looking to collaborate on ...any intermediate python/ c projects!
 - 📫 How to reach me ... Email: Vallejosalex10@gmail.com Number: 561 255 5712
 
 <!---
